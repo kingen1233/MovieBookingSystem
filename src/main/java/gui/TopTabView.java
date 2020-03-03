@@ -10,7 +10,7 @@ public class TopTabView {
 	@FXML private LoginTab aLoginTabController;
 
 	@FXML private Parent aBookingTab;
-	@FXML private BookingTab aBookingTabController;
+	@FXML private BookingTab aBookingTabController;//user
 	
 	@FXML private Tab reservationTab;
 	@FXML private ReservationsTab aReservationTabController;

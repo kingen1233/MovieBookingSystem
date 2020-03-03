@@ -36,7 +36,7 @@ public class BookingTab {
 	@FXML private Label showFreeSeats;
 	
 	// booking button
-	@FXML private Button bookTicket;
+	@FXML private Button bookTicket;//user
 	
 	private Database db;
 	private Show crtShow = new Show();

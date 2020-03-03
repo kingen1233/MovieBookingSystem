@@ -20,7 +20,7 @@ public class Show {
 			init(t,d,v,fs);
 		}
 		
-		// constructor defining only the title
+		// constructor defining only the title//user
 		public Show(String t) {
 			init(t,"","",-1);
 		}

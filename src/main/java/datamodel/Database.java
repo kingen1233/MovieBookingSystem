@@ -17,7 +17,7 @@ public class Database {
 	 * Create the database interface object. Connection to the database is performed
 	 * later.
 	 */
-	public Database() {
+	public Database() { //user
 		conn = null;
 	}
 

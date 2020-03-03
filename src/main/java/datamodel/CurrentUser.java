@@ -18,7 +18,7 @@ public class CurrentUser {
     /**
      * Create a CurrentUser object.
      */
-    private CurrentUser() {
+    private CurrentUser() { // user
         currentUserId = null;
     }
         

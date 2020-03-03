@@ -20,7 +20,7 @@ public class Reservation {
 	}
 
 	// getters
-	public int getBookingId() {
+	public int getBookingId() {//user
 		return bookingId;
 	}
 	

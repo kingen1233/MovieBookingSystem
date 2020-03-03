@@ -15,7 +15,7 @@ public class ReservationsTab {
 	
 	private Database db;
 	
-	public void setDatabase(Database db) {
+	public void setDatabase(Database db) {//user
 		this.db = db;
 	}
 	

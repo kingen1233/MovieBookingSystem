@@ -17,7 +17,7 @@ import javafx.stage.Stage;
  */
 public class MainApplication extends Application {
 		
-	private Database db = new Database();
+	private Database db = new Database();//user
 	
 	@Override
 	public void start(Stage primaryStage) {

@@ -18,7 +18,7 @@ public class LoginTab {
 	@FXML
 	private TextField username;
 
-	private BookingTab bookingTabCtrl;
+	private BookingTab bookingTabCtrl;//user
 	private Database db;
 
 	@FXML
